@@ -2,4 +2,8 @@
 
 # second commit
 
-# y commit (error i didn't pull before)
+# third commit macBook
+
+# x commit macBook
+
+# y commit - now is OK 
