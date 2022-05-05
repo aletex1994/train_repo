@@ -1,5 +1,4 @@
-# Git reminder
-
+# Get started
 
 TERMINAL CMD : 
 
