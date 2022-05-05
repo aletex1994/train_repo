@@ -1,12 +1,5 @@
-# first commit macStudio
+# Git reminder
 
-# second commit
-
-# third commit macBook
-
-# x commit macBook
-
-# y commit - now is OK 
 
 TERMINAL CMD : 
 
@@ -16,6 +9,4 @@ TERMINAL CMD :
 - git add .
 - git commit -m "commit here"
 - git push
-
-
--->everytime be sure to -> git pull to avoid errors and conflicts
+- N.B. git pull to update all files
