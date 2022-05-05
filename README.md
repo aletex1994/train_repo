@@ -18,4 +18,4 @@ TERMINAL CMD :
 - git push
 
 
--->everytime be sure to -> git pull to avoid errors
+-->everytime be sure to -> git pull to avoid errors and conflicts
